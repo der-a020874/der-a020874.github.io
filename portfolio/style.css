@@ -1,0 +1,50 @@
+body {
+    background-image: url(images/osnfon.gif);
+    
+}
+
+a {
+    transition: 2s ease-out;
+}
+.dt {
+    text-align: center;
+    font-size: 22px;
+    font-family:"OpenSans";
+    color: rgb(102,102,102);
+    text-transform: uppercase;
+    z-index: 76;
+}
+
+.dt2 {
+font-size: 14px;
+  font-family: "Arial";
+  color: rgb(102, 102, 102);
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 2.143;
+  z-index: 83;
+}
+
+.footr{
+     font-size: 13px;
+  font-family: "Myriad Pro";
+  color: rgb(102, 102, 102);
+  text-align: right;
+  z-index: 330;
+}
+
+.footl{
+   font-size: 13px;
+  font-family: "Myriad Pro";
+  color: rgb(102, 102, 102);
+  text-align: left;
+  z-index: 330; 
+}
+
+.footm ul li a{
+    font-size: 13px;
+    font-family: "Myriad Pro";
+    color: rgb(102, 102, 102);
+    border-bottom-color: crimson; 
+}
+
